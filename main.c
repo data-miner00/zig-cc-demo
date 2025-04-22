@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <shaun.h>
 
 int main(void) {
-    printf("hello world");
+    printf("PI is approximately %.5f\n", PI);
     return 0;
 }

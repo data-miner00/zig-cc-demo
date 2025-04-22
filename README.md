@@ -2,7 +2,7 @@
 
 Zig is more than just a programming language. It is also a build tool for C/C++ and Zig itself.
 
-This is a quick demo to compile C with `build.zig`.
+This is a quick demo to compile C with `build.zig` with Zig 0.13.0.
 
 ## Embedded C/C++ compiler
 
@@ -36,7 +36,7 @@ Run the executable as usual.
 
 ```
 > ./zig-out/bin/myapp.exe
-hello world
+PI is approximately 3.14159
 ```
 
 ## Credits
